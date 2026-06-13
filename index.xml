@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>A Field Guide to AI Fellowships</title>
+      <link>https://vivekstills.github.io/sharing-is-caring</link>
+      <description>Last 10 notes on A Field Guide to AI Fellowships</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Programs Directory</title>
+    <link>https://vivekstills.github.io/sharing-is-caring/Programs/Programs-Directory</link>
+    <guid>https://vivekstills.github.io/sharing-is-caring/Programs/Programs-Directory</guid>
+    <description><![CDATA[ Programs Directory The real programs, grouped by where they sit on the ladder. ]]></description>
+    <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Glossary</title>
+    <link>https://vivekstills.github.io/sharing-is-caring/Resources/Glossary</link>
+    <guid>https://vivekstills.github.io/sharing-is-caring/Resources/Glossary</guid>
+    <description><![CDATA[ Glossary The jargon, demystified. This field loves acronyms and insider words; none of it is as hard as it sounds. ]]></description>
+    <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Key Papers</title>
+    <link>https://vivekstills.github.io/sharing-is-caring/Resources/Key-Papers</link>
+    <guid>https://vivekstills.github.io/sharing-is-caring/Resources/Key-Papers</guid>
+    <description><![CDATA[ Key Papers The specific stuff. ]]></description>
+    <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Reading and Courses</title>
+    <link>https://vivekstills.github.io/sharing-is-caring/Resources/Reading-and-Courses</link>
+    <guid>https://vivekstills.github.io/sharing-is-caring/Resources/Reading-and-Courses</guid>
+    <description><![CDATA[ Reading and Courses Everything worth your time, nothing that isn’t. ]]></description>
+    <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Career and Communication Skills</title>
+    <link>https://vivekstills.github.io/sharing-is-caring/Skills/Career-and-Communication-Skills</link>
+    <guid>https://vivekstills.github.io/sharing-is-caring/Skills/Career-and-Communication-Skills</guid>
+    <description><![CDATA[ Career and Communication Skills The meta-skills. ]]></description>
+    <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Research Skills</title>
+    <link>https://vivekstills.github.io/sharing-is-caring/Skills/Research-Skills</link>
+    <guid>https://vivekstills.github.io/sharing-is-caring/Skills/Research-Skills</guid>
+    <description><![CDATA[ Research Skills The skills that separate “I can run experiments someone designed” from “I can figure out what’s worth studying and study it well.” These are what scientist-track fellowships are really selecting for, and they matter a lot for Interpretability and Alignment and AI Safety too. ]]></description>
+    <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Skills Map</title>
+    <link>https://vivekstills.github.io/sharing-is-caring/Skills/Skills-Map</link>
+    <guid>https://vivekstills.github.io/sharing-is-caring/Skills/Skills-Map</guid>
+    <description><![CDATA[ Skills Map What you actually need to be good at, and which track needs which. ]]></description>
+    <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Technical Skills</title>
+    <link>https://vivekstills.github.io/sharing-is-caring/Skills/Technical-Skills</link>
+    <guid>https://vivekstills.github.io/sharing-is-caring/Skills/Technical-Skills</guid>
+    <description><![CDATA[ Technical Skills The hands-on stack. ]]></description>
+    <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Alignment and AI Safety</title>
+    <link>https://vivekstills.github.io/sharing-is-caring/Tracks/Alignment-and-AI-Safety</link>
+    <guid>https://vivekstills.github.io/sharing-is-caring/Tracks/Alignment-and-AI-Safety</guid>
+    <description><![CDATA[ Alignment and AI Safety In one line You work on making powerful AI systems reliably do what people intend — and not do catastrophic things — even as they get more capable. ]]></description>
+    <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Applied and Product ML</title>
+    <link>https://vivekstills.github.io/sharing-is-caring/Tracks/Applied-and-Product-ML</link>
+    <guid>https://vivekstills.github.io/sharing-is-caring/Tracks/Applied-and-Product-ML</guid>
+    <description><![CDATA[ Applied and Product ML In one line You turn models into things people actually use — fine-tuning, evaluation for product use cases, data pipelines, shipping features. ]]></description>
+    <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
